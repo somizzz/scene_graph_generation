@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "linux-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/data/private/code/projection/PySGG/pysgg/csrc",
+                "/root/miniconda3/envs/pysgg/lib/python3.8/site-packages/torch/include",
+                "/root/miniconda3/envs/pysgg/lib/python3.8/site-packages/torch/include/torch/csrc/api/include",
+                "/root/miniconda3/envs/pysgg/lib/python3.8/site-packages/torch/include/THC"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

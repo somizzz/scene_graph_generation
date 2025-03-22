@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: pysgg
+Version: 0.1
+Summary: A Toolkit for Scene Graph Generation
+Home-page: 
+Author: Rongjie Li, Songyang Zhang
+License-File: LICENSE
+Dynamic: author
+Dynamic: summary

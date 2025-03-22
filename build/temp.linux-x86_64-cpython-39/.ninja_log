@@ -1,0 +1,23 @@
+# ninja log v5
+4	6393	1741177473000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cpu/ROIAlign_cpu.o	b1d85873ecd540cd
+4	6973	1741177473000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cpu/nms_cpu.o	71b6d469f54d14a6
+7	20582	1741177487000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_conv_cuda.o	60672e7e7175eaf1
+8	20771	1741177487000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_pool_cuda.o	452281628584d1be
+6	22149	1741177488000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/SigmoidFocalLoss_cuda.o	40da5edb71c8a57b
+9	22230	1741177489000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/nms.o	a8cd76947bdd257
+5	22806	1741177489000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/ROIAlign_cuda.o	b27f6a68f450d8b5
+7	22879	1741177489000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_conv_kernel_cuda.o	e3c1c2f631f8680c
+6	22888	1741177489000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/ROIPool_cuda.o	641c2d504030f869
+8	23490	1741177490000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_pool_kernel_cuda.o	b12a35570ca19019
+6399	33578	1741177500000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/vision.o	34eb54cded5e33db
+25	6918	1741177508000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cpu/ROIAlign_cpu.o	ae492766a8306685
+26	7590	1741177509000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cpu/nms_cpu.o	baca15ca67e324b0
+26	19439	1741177521000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/ROIAlign_cuda.o	104718f589a9dd4c
+28	20113	1741177521000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_pool_cuda.o	70bad22558864908
+28	20259	1741177522000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_conv_cuda.o	402f31041d31d882
+29	20475	1741177522000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/nms.o	95018d4ab77ffd52
+27	20841	1741177522000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/ROIPool_cuda.o	c796004234ad57a5
+27	22324	1741177524000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/SigmoidFocalLoss_cuda.o	a3aec1cf544daa5f
+29	22356	1741177524000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_pool_kernel_cuda.o	cefade002c4c66f7
+28	22622	1741177524000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/cuda/deform_conv_kernel_cuda.o	daf4fae09da1a57a
+6920	29802	1741177531000000000	/project/p_zhu/PySGG-main/build/temp.linux-x86_64-cpython-39/project/p_zhu/PySGG-main/pysgg/csrc/vision.o	f69f5efc6f401c9a
