@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/home/p_zhuzy/p_zhu/PySGG-main/train.py", line 29, in <module>
-    from util.model import build_detection_model
-  File "/project/p_zhu/PySGG-main/util/model.py", line 7, in <module>
-    from .roi_heads import build_roi_heads
-  File "/project/p_zhu/PySGG-main/util/roi_heads.py", line 46, in <module>
-    from load_word2vec import (
-ModuleNotFoundError: No module named 'load_word2vec'
