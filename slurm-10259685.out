@@ -1,23 +1,0 @@
-Downloading https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz to /home/p_zhuzy/p_zhu/PySGG-main/datasets/vg/stanford_spilt/GoogleNews-vectors-negative300.bin.gz...
-0.00B [00:00, ?B/s]340B [00:00, 251kB/s]
-Download completed: /home/p_zhuzy/p_zhu/PySGG-main/datasets/vg/stanford_spilt/GoogleNews-vectors-negative300.bin.gz
-Traceback (most recent call last):
-  File "/home/p_zhuzy/p_zhu/PySGG-main/train.py", line 29, in <module>
-    from util.model import build_detection_model
-  File "/project/p_zhu/PySGG-main/util/model.py", line 7, in <module>
-    from .roi_heads import build_roi_heads
-  File "/project/p_zhu/PySGG-main/util/roi_heads.py", line 50, in <module>
-    from util.load_word2vec import obj_edge_vectors
-  File "/project/p_zhu/PySGG-main/util/load_word2vec.py", line 46, in <module>
-    shutil.copyfileobj(f_in, f_out)
-  File "/home/p_zhuzy/miniconda3/envs/pysgg/lib/python3.9/shutil.py", line 205, in copyfileobj
-    buf = fsrc_read(length)
-  File "/home/p_zhuzy/miniconda3/envs/pysgg/lib/python3.9/gzip.py", line 300, in read
-    return self._buffer.read(size)
-  File "/home/p_zhuzy/miniconda3/envs/pysgg/lib/python3.9/_compression.py", line 68, in readinto
-    data = self.read(len(byte_view))
-  File "/home/p_zhuzy/miniconda3/envs/pysgg/lib/python3.9/gzip.py", line 487, in read
-    if not self._read_gzip_header():
-  File "/home/p_zhuzy/miniconda3/envs/pysgg/lib/python3.9/gzip.py", line 435, in _read_gzip_header
-    raise BadGzipFile('Not a gzipped file (%r)' % magic)
-gzip.BadGzipFile: Not a gzipped file (b'<?')
